@@ -38,6 +38,13 @@ Afterwards, in the same way as did in the flat nanomembrane, magnetic hysteresis
 
 The code can be run with Python 3.0 or above.
 
+# What to install
+
+1. python 3.4 or greater
+2. numba
+3. NumPy
+4. scipy
+
 # LICENSE
 
 Stoner3D_FSMA is written and maintained by Vagner Zeizer Carvalho Paes.
